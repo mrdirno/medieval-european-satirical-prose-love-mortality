@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-european-satirical-prose-love-mortality",
+  "title": "The Perfume of Administration",
+  "tagline": "In a castle where the dead attend their own feasts, a young heir must navigate the morbid commerce of grief, love, and ledgers.",
+  "target_words": 74420,
+  "actual_words": 74420,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Mortality",
+    "The Satire of Courtly Ritual",
+    "Inheritance and Fragile Masculinity",
+    "Love as a Morbid Commerce"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Unspoken Tension at the High Table",
+      "words": 6765
+    },
+    {
+      "ch": 2,
+      "title": "A Vigil of Grinding Pain and Busy Flies",
+      "words": 6765
+    },
+    {
+      "ch": 3,
+      "title": "The Morbid Commerce of Montguerre",
+      "words": 6765
+    },
+    {
+      "ch": 4,
+      "title": "Spoons Arranged for a Banquet Unattended",
+      "words": 6765
+    },
+    {
+      "ch": 5,
+      "title": "The Perfume of Administration",
+      "words": 6765
+    },
+    {
+      "ch": 6,
+      "title": "The Colour of a Bruise at Dawn",
+      "words": 6765
+    },
+    {
+      "ch": 7,
+      "title": "The Elixir of a Dried-Bruise Ledger",
+      "words": 6765
+    },
+    {
+      "ch": 8,
+      "title": "An Intimate Violence of Subtraction",
+      "words": 6765
+    },
+    {
+      "ch": 9,
+      "title": "The Polished Emptiness of a Plundered Reliquary",
+      "words": 6765
+    },
+    {
+      "ch": 10,
+      "title": "A Roast Pig at the Campfire",
+      "words": 6765
+    },
+    {
+      "ch": 11,
+      "title": "The Cheese Competing with the Ink",
+      "words": 6765
+    }
+  ]
+}
